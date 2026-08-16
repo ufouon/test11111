@@ -1,5 +1,5 @@
 let roundnum = 0;
-let wallet= 3700000;
+let wallet= 24700000;
 let bet = false;
 let pendding;
 let rowColor;
